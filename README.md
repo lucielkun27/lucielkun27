@@ -5,6 +5,7 @@ I am currently a SUTD freshmore that intends to major in Engineering Systems and
 Current Status: Learning Python; Struggling with Biology, Chemistry and Physics :c
 
 Interests: mental health advocacy, social impact
+
 Hobbies: Video Games, Tabletop Games (Board Games, Card Games, Dungeons and Dragons...)
 
 <!---
