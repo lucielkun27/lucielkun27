@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @lucielkun27, a SUTD freshmore that intends to major in Engineering Systems and Design (ESD) — Business Analytics!
-- 👀 I’m interested in mental health advocacy and social impact initiatives!
-- 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi everyone!
+
+I am currently a SUTD freshmore that intends to major in Engineering Systems and Design (ESD) — Business Analytics!
+
+Current Status: Learning Python; Struggling with Biology, Chemistry and Physics :c
+
+Interests: mental health advocacy, social impact
+Hobbies: Video Games, Tabletop Games (Board Games, Card Games, Dungeons and Dragons...)
 
 <!---
 lucielkun27/lucielkun27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
