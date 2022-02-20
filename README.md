@@ -1,7 +1,5 @@
 Hi everyone!
 
-I am currently a SUTD freshmore that intends to major in Engineering Systems and Design (ESD) — Business Analytics!
-
 **Current Status:** Learning Python; Struggling with Biology, Chemistry and Physics :c
 
 **Interests:** Mental Health Advocacy, Social Impact
